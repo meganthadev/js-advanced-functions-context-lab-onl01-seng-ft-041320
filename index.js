@@ -61,5 +61,7 @@ function findEmployeeByFirstName(srcArray, firstName){
 }
 
 function calculatePayroll(arrOfEmployees){
-  
+  return arrOfEmployees.reduce(function(payroll, employee){
+    return payroll + allWagesFor.call(employee)
+  }, 0)
 }
