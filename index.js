@@ -34,3 +34,13 @@ function createTimeInEvent(dateTime){
   })
   return this
 }
+
+function createTimeOutEvent(dateTime){
+  let [date, hour] = dateTime.split(' ')
+  this.timeInEvents.push({
+    type: "TimeOut",
+    hour: parseInt(hour),
+    date: date
+  })
+  return this
+}
