@@ -25,4 +25,4 @@ function createEmployeeRecords(arrOfArrays){
   return arrOfArrays.map(empInfo => createEmployeeRecord(empInfo))
 }
 
-function 
+function createTimeInEvent
