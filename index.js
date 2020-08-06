@@ -56,4 +56,4 @@ function wagesEarnedOnDate(date){
   return hours * this.payPerHour
 }
  
-function 
+function findEmployeeByFirstName()
