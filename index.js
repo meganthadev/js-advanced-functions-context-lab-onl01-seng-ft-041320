@@ -11,5 +11,6 @@ let allWagesFor = function () {
 }
 
 function createEmployeeRecord(empInfo) {
-  let empInfo = {
+  return {
+    
 }
