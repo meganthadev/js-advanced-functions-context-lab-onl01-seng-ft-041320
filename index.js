@@ -21,4 +21,6 @@ function createEmployeeRecord(array) {
     }
 }
 
-function createEmployeeRecords(arrOfArrays)
+function createEmployeeRecords(arrOfArrays){
+  
+}
