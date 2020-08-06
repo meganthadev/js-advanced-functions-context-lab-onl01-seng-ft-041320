@@ -56,6 +56,4 @@ function wagesEarnedOnDate(date){
   return hours * this.payPerHour
 }
  
-function allWagesFor(){
-  let dates =  
-}
+function 
