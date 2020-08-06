@@ -60,4 +60,4 @@ function findEmployeeByFirstName(srcArray, firstName){
   return srcArray.find(employee => employee.firstName === firstName)
 }
 
-funtion cal
+funtion calculatePayroll()
