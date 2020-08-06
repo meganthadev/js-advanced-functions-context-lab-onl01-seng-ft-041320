@@ -51,4 +51,6 @@ function hoursWorkedOnDate(date){
   return (timeOut.hour - timeIn.hour)/100
 }
 
-function 
+function wagesEarnedOnDate(date){
+  
+}
