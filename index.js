@@ -20,3 +20,5 @@ function createEmployeeRecord(array) {
         timeOutEvents: []
     }
 }
+
+function 
