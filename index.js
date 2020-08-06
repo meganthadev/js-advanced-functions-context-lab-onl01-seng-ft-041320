@@ -26,5 +26,8 @@ function createEmployeeRecords(arrOfArrays){
 }
 
 function createTimeInEvent(dateTime){
-  
+  return {
+    type: "TimeIn",
+    hour: 
+  }
 }
