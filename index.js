@@ -45,4 +45,6 @@ function createTimeOutEvent(dateTime){
   return this
 }
 
-function 
+function hoursWorkedOnDate(date){
+  
+}
