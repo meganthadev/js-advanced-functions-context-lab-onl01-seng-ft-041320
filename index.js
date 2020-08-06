@@ -59,3 +59,5 @@ function wagesEarnedOnDate(date){
 function findEmployeeByFirstName(srcArray, firstName){
   return srcArray.find(employee => employee.firstName === firstName)
 }
+
+funtion cal
