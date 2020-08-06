@@ -24,3 +24,5 @@ function createEmployeeRecord(array) {
 function createEmployeeRecords(arrOfArrays){
   return arrOfArrays.map(empInfo => createEmployeeRecord(empInfo))
 }
+
+function 
